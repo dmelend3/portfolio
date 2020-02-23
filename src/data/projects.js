@@ -40,7 +40,7 @@ const projects = [
     image: vuetodo,
     hashtags:["todo", "vuejs", "javascript", "tailwind"],
     url:"https://vuetodo.danielmelendez.xyz/"
-  }
+  },
   {
     name: "Look at my Notes",
     description: "A Vue.js Application with Vuex, implementing a CRUD Notes app.",
