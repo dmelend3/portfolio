@@ -6,6 +6,7 @@ import vuetodo from "../assets/projects/05.png"
 import mynotes from "../assets/projects/06.png"
 import login from "../assets/projects/07.png"
 import superhero from "../assets/projects/08.png"
+import pong from "../assets/projects/09.png"
 
 const projects = [
   {
@@ -63,6 +64,13 @@ const projects = [
     image: superhero,
     hashtags:["API", "vuejs", "javascript", "tailwind", "vuex", "vue-router"],
     url:"https://superherofinder.danielmelendez.xyz/"
+  },
+  {
+    name: "Pong",
+    description: "A simple pong game in Vue",
+    image: pong,
+    hashtags:["vuejs", "vuex", "vue-router"],
+    url:"https://pong.danielmelendez.xyz/"
   }  
 ]
 
